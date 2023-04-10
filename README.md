@@ -13,7 +13,7 @@ i use this repo for personal use, and just to save what i do at freeCodeCamp. An
 - [ ] Back End Development and API
 
 ## Why i want learn that?
-    Because i just a noobie at web programming :) and i want become a backend developer later:)) wish i achieve that and i will do my hardwork💪💪. And i wanna do learning sum another skill like time managing and writing with 10 finger😱😱😱😱😱😱. And i want to build my habit just not for programming and for prayer and for my religion too
+   Because i just a noobie at web programming :) and i want become a backend developer later:)) wish i achieve that and i will do my hardwork💪💪. And i wanna do learning sum another skill like time managing and writing with 10 finger😱😱😱😱😱😱. And i want to build my habit just not for programming and for prayer and for my religion too
 > "The greatest enemy of knowledge is not ignorance, 
 > it is the illusion of knowledge."
 >  -Stephen Hawking
