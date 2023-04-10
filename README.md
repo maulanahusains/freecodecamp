@@ -9,8 +9,8 @@ i use this repo for personal use, and just to save what i do at freeCodeCamp. An
 #### What i want to learn at this website 
 - [ ] Responsive Web Design
 - [ ] Javascript Algorithm & Data Stucture
-[ ] Front End Development
-[ ] Back End Development and API
+- [ ] Front End Development
+- [ ] Back End Development and API
 
 ## Why i want learn that?
     Because i just a noobie at web programming :) and i want become a backend developer later:)) wish i achieve that and i will do my hardwork💪💪. And i wanna do learning sum another skill like time managing and writing with 10 finger😱😱😱😱😱😱. And i want to build my habit just not for programming and for prayer and for my religion too
