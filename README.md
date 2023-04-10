@@ -7,8 +7,8 @@ console.log('hello world');
 i use this repo for personal use, and just to save what i do at freeCodeCamp. And i want to learning javascript
 
 #### What i want to learn at this website 
-[ ] Responsive Web Design
-[ ] Javascript Algorithm & Data Stucture
+- [ ] Responsive Web Design
+- [ ] Javascript Algorithm & Data Stucture
 [ ] Front End Development
 [ ] Back End Development and API
 
